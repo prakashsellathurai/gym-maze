@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(name="gym_maze",
       version="0.4",
-      url="https://github.com/tuzzer/gym-maze",
-      author="Matthew T.K. Chan",
+      url="https://github.com/prakashsellathurai/gym-maze",
+      author="Prakash Sellathurai",
       license="MIT",
       packages=["gym_maze", "gym_maze.envs"],
       package_data = {
